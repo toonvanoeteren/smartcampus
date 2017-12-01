@@ -1,0 +1,16 @@
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\bin\Debug\smartcampustest.exe.config
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\bin\Debug\smartcampustest.exe
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\bin\Debug\smartcampustest.pdb
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\obj\Debug\smartcampustest.csprojResolveAssemblyReference.cache
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\obj\Debug\MainWindow.g.cs
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\obj\Debug\App.g.cs
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\obj\Debug\smartcampustest_MarkupCompile.cache
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\obj\Debug\smartcampustest_MarkupCompile.lref
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\obj\Debug\MainWindow.baml
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\obj\Debug\smartcampustest.g.resources
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\obj\Debug\smartcampustest.Properties.Resources.resources
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\obj\Debug\smartcampustest.csproj.GenerateResource.Cache
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\obj\Debug\smartcampustest.exe
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\obj\Debug\smartcampustest.pdb
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\bin\Debug\nunit.framework.dll
+c:\users\11502150\documents\visual studio 2015\Projects\smartcampustest\bin\Debug\nunit.framework.xml
